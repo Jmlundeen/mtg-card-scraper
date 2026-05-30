@@ -1,0 +1,6 @@
+#ignore python environment files
+mtgenv/
+
+*.txt
+*.jsonl
+*.json
