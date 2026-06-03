@@ -1,6 +1,9 @@
 #ignore python environment files
 mtgenv/
 
-*.txt
+card_info/
+mtg-cards-data.txt
+mtg-sets-data.txt
+parsed_scryfall_cards.txt
 *.jsonl
 *.json
